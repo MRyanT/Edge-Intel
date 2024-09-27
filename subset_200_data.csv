@@ -1,0 +1,201 @@
+Employee_ID,Department,Gender,Age,Job_Title,Hire_Date,Years_At_Company,Education_Level,Performance_Score,Monthly_Salary,Work_Hours_Per_Week,Projects_Handled,Overtime_Hours,Sick_Days,Remote_Work_Frequency,Team_Size,Training_Hours,Promotions,Employee_Satisfaction_Score,Resigned
+75722,Sales,Other,31,Manager,2024-03-23 08:03:05.556036,0,Master,2,7200.0,60,18,24,8,75,5,9,0,4.59,False
+80185,Sales,Male,50,Engineer,2024-09-02 08:03:05.556036,0,High School,4,8400.0,44,19,5,12,0,13,90,1,4.83,False
+19865,Sales,Female,29,Manager,2015-09-28 08:03:05.556036,8,High School,3,7800.0,33,18,19,5,75,16,53,0,2.23,True
+76700,Marketing,Female,24,Analyst,2022-08-13 08:03:05.556036,2,Master,1,4400.0,33,35,26,0,0,18,68,0,4.88,True
+92992,Operations,Male,40,Technician,2015-02-10 08:03:05.556036,9,Bachelor,4,4900.0,37,1,21,7,0,1,88,1,3.68,False
+76435,Sales,Female,34,Specialist,2023-11-29 08:03:05.556036,0,Bachelor,3,5850.0,51,6,3,14,50,4,23,0,4.46,False
+84005,Customer Support,Male,28,Developer,2016-07-07 08:03:05.556036,8,Bachelor,5,7500.0,47,48,14,6,75,17,61,0,4.66,False
+80918,Legal,Male,46,Specialist,2022-07-21 08:03:05.556036,2,High School,3,5850.0,55,49,0,14,100,11,44,2,1.58,False
+60768,Finance,Female,27,Developer,2023-02-16 08:03:05.556036,1,Bachelor,4,7000.0,40,15,7,8,50,3,47,0,4.39,True
+50075,IT,Male,47,Technician,2016-03-29 08:03:05.556036,8,Bachelor,2,4200.0,55,3,9,12,100,13,18,0,3.09,True
+27702,Sales,Female,43,Developer,2020-07-18 08:03:05.556036,4,High School,1,5500.0,56,3,19,2,25,7,64,0,2.61,False
+42142,IT,Female,51,Technician,2020-05-23 08:03:05.556036,4,Bachelor,1,3850.0,36,7,22,9,75,5,4,1,3.72,False
+45081,HR,Male,43,Manager,2017-10-05 08:03:05.556036,6,Bachelor,5,9000.0,38,45,1,10,50,4,96,2,1.16,False
+16639,IT,Female,51,Manager,2022-01-15 08:03:05.556036,2,Bachelor,2,7200.0,37,17,29,6,75,4,75,2,4.15,False
+20425,Operations,Female,54,Consultant,2018-04-05 08:03:05.556036,6,High School,1,6050.0,52,32,8,0,0,15,77,2,4.2,False
+88703,Operations,Female,55,Developer,2023-02-17 08:03:05.556036,1,Bachelor,5,7500.0,43,10,24,1,75,5,6,1,3.65,True
+150,Finance,Female,55,Analyst,2021-03-19 08:03:05.556036,3,Bachelor,1,4400.0,57,17,21,12,100,6,92,0,3.0,False
+1762,Sales,Male,39,Analyst,2018-12-02 08:03:05.556036,5,Bachelor,3,5200.0,50,0,12,1,25,11,84,1,1.96,False
+63121,Sales,Male,45,Technician,2022-04-29 08:03:05.556036,2,High School,1,3850.0,41,39,17,11,0,6,47,0,1.67,False
+69162,Customer Support,Female,55,Analyst,2019-10-02 08:03:05.556036,4,PhD,4,5600.0,32,32,18,3,0,10,93,2,2.97,False
+64884,Marketing,Female,25,Engineer,2022-12-05 08:03:05.556036,1,Master,4,8400.0,43,36,0,10,0,14,15,2,4.0,False
+2496,HR,Female,45,Manager,2015-11-26 08:03:05.556036,8,Master,1,6600.0,49,25,29,10,25,19,71,1,1.32,False
+80297,HR,Female,31,Technician,2020-03-06 08:03:05.556036,4,Bachelor,2,4200.0,43,33,13,10,75,8,63,0,4.39,False
+19448,Finance,Female,35,Specialist,2015-09-18 08:03:05.556036,8,Bachelor,2,5400.0,56,37,1,9,0,16,73,1,2.52,False
+41332,IT,Male,24,Manager,2018-05-03 08:03:05.556036,6,Bachelor,4,8400.0,58,6,12,7,50,19,75,2,4.34,False
+14889,HR,Female,43,Technician,2016-04-07 08:03:05.556036,8,Bachelor,3,4550.0,34,6,25,10,25,9,74,2,1.74,False
+88637,Legal,Female,57,Manager,2016-06-08 08:03:05.556036,8,High School,4,8400.0,52,21,25,0,0,3,37,1,1.33,False
+94893,Operations,Female,50,Technician,2018-06-12 08:03:05.556036,6,Bachelor,2,4200.0,59,10,7,5,25,12,26,2,2.98,False
+92732,Customer Support,Female,32,Consultant,2018-11-08 08:03:05.556036,5,Bachelor,2,6600.0,37,0,19,14,50,3,57,0,1.1,True
+29131,Legal,Female,60,Engineer,2024-05-05 08:03:05.556036,0,High School,5,9000.0,34,28,16,5,0,3,39,2,4.93,False
+79023,Sales,Female,23,Engineer,2019-09-21 08:03:05.556036,4,Bachelor,1,6600.0,54,14,28,13,50,17,26,0,1.12,False
+84937,Operations,Female,30,Manager,2023-09-30 08:03:05.556036,0,Bachelor,5,9000.0,46,31,7,1,0,6,72,2,3.79,False
+16822,Finance,Male,41,Consultant,2022-01-30 08:03:05.556036,2,Bachelor,4,7700.0,60,27,4,4,25,9,76,1,2.15,False
+36734,Operations,Female,49,Consultant,2020-11-19 08:03:05.556036,3,Bachelor,4,7700.0,35,11,16,1,50,17,83,1,3.92,False
+15603,Finance,Female,24,Analyst,2016-08-01 08:03:05.556036,8,Bachelor,2,4800.0,50,10,6,8,25,5,97,1,1.41,False
+28534,Customer Support,Other,52,Technician,2017-07-24 08:03:05.556036,7,High School,3,4550.0,52,12,0,3,50,14,29,2,2.73,False
+69770,Finance,Male,56,Developer,2015-10-20 08:03:05.556036,8,High School,5,7500.0,45,13,28,13,25,6,0,0,1.62,False
+11406,HR,Female,56,Consultant,2018-11-19 08:03:05.556036,5,High School,2,6600.0,51,15,23,4,0,13,70,2,4.06,False
+96853,HR,Male,34,Developer,2015-04-11 08:03:05.556036,9,Bachelor,2,6000.0,60,30,29,9,75,12,54,1,3.93,False
+16131,Sales,Male,44,Analyst,2014-12-22 08:03:05.556036,9,Master,2,4800.0,59,49,15,14,75,19,15,1,3.51,False
+19793,HR,Male,27,Manager,2016-11-23 08:03:05.556036,7,High School,5,9000.0,44,2,0,7,50,3,15,1,4.07,False
+89578,Engineering,Male,56,Consultant,2016-02-18 08:03:05.556036,8,Bachelor,5,8250.0,34,7,25,5,25,11,19,1,3.6,False
+40164,Engineering,Male,40,Consultant,2023-02-23 08:03:05.556036,1,Master,4,7700.0,52,2,15,14,75,16,55,1,4.08,True
+31777,Customer Support,Male,36,Engineer,2024-07-26 08:03:05.556036,0,High School,5,9000.0,60,47,20,12,75,4,49,0,2.54,True
+25331,Customer Support,Female,41,Analyst,2021-03-02 08:03:05.556036,3,Bachelor,2,4800.0,56,48,19,4,0,19,91,1,3.12,False
+79157,Sales,Male,49,Analyst,2018-10-17 08:03:05.556036,5,High School,2,4800.0,44,30,0,0,0,7,94,2,4.14,False
+51686,Customer Support,Male,55,Manager,2019-06-12 08:03:05.556036,5,High School,3,7800.0,34,9,6,4,25,11,96,0,2.95,False
+75499,Finance,Male,36,Technician,2018-03-11 08:03:05.556036,6,Bachelor,3,4550.0,55,30,22,2,0,17,13,1,1.86,True
+4728,Operations,Female,50,Manager,2018-03-04 08:03:05.556036,6,Bachelor,5,9000.0,53,43,21,6,75,19,36,2,4.57,False
+85199,Sales,Female,27,Specialist,2017-08-15 08:03:05.556036,7,Bachelor,1,4950.0,39,10,9,11,100,8,42,2,1.01,False
+35796,HR,Male,26,Engineer,2024-03-07 08:03:05.556036,0,Bachelor,3,7800.0,39,44,6,2,25,18,61,0,1.44,False
+12257,Operations,Female,33,Technician,2017-05-20 08:03:05.556036,7,PhD,3,4550.0,30,26,17,4,0,6,66,2,4.58,False
+35719,Operations,Female,52,Consultant,2020-12-30 08:03:05.556036,3,High School,3,7150.0,44,25,23,13,75,10,57,2,4.55,False
+70552,Operations,Female,38,Developer,2020-06-13 08:03:05.556036,4,Bachelor,2,6000.0,32,5,16,3,75,9,43,0,1.51,False
+54375,Marketing,Male,43,Consultant,2023-10-27 08:03:05.556036,0,Bachelor,4,7700.0,41,44,6,7,0,19,70,0,3.16,True
+39692,Legal,Female,23,Consultant,2015-05-20 08:03:05.556036,9,Bachelor,3,7150.0,55,20,19,10,100,9,74,1,2.43,False
+93703,Marketing,Female,57,Manager,2019-01-18 08:03:05.556036,5,Bachelor,1,6600.0,45,14,14,3,25,14,56,1,4.78,False
+73692,IT,Female,49,Engineer,2022-10-31 08:03:05.556036,1,Bachelor,1,6600.0,43,40,8,0,25,2,92,1,1.11,False
+98071,Legal,Male,26,Analyst,2023-02-22 08:03:05.556036,1,Bachelor,5,6000.0,59,8,19,6,100,9,94,2,3.57,False
+576,Marketing,Male,50,Analyst,2021-11-12 08:03:05.556036,2,High School,5,6000.0,43,12,7,6,75,7,5,1,4.86,False
+84611,HR,Female,49,Manager,2020-10-30 08:03:05.556036,3,High School,4,8400.0,55,32,27,5,100,9,20,1,4.87,False
+61770,HR,Male,29,Analyst,2021-03-17 08:03:05.556036,3,Master,1,4400.0,33,11,24,9,75,4,12,2,1.78,False
+32261,Engineering,Male,53,Analyst,2024-03-09 08:03:05.556036,0,High School,1,4400.0,54,6,6,6,75,9,67,2,2.04,True
+82200,IT,Male,31,Consultant,2020-10-16 08:03:05.556036,3,Bachelor,5,8250.0,34,33,25,5,75,19,60,0,2.3,False
+36291,Engineering,Male,39,Developer,2022-09-10 08:03:05.556036,1,Bachelor,4,7000.0,31,10,8,6,50,16,25,2,4.44,True
+78450,HR,Male,24,Analyst,2018-02-18 08:03:05.556036,6,High School,1,4400.0,59,36,1,13,0,18,14,0,1.34,False
+60056,Sales,Male,36,Specialist,2019-09-16 08:03:05.556036,4,High School,4,6300.0,59,20,15,9,0,8,64,0,2.54,False
+45949,Sales,Female,39,Consultant,2014-12-04 08:03:05.556036,9,Bachelor,2,6600.0,45,1,13,3,0,3,62,2,2.27,False
+28178,Operations,Female,48,Manager,2019-02-28 08:03:05.556036,5,Bachelor,4,8400.0,54,19,25,1,25,18,83,1,2.29,False
+84464,IT,Female,44,Developer,2019-02-11 08:03:05.556036,5,High School,4,7000.0,49,15,23,9,0,16,17,2,4.63,False
+579,Customer Support,Female,37,Developer,2022-06-02 08:03:05.556036,2,Bachelor,1,5500.0,41,11,23,4,25,11,84,1,4.54,False
+30960,Engineering,Female,34,Engineer,2024-02-16 08:03:05.556036,0,Bachelor,4,8400.0,32,32,28,3,0,4,77,0,2.73,False
+64291,Finance,Female,59,Consultant,2022-01-05 08:03:05.556036,2,Bachelor,5,8250.0,33,15,24,7,50,14,70,1,3.34,False
+14532,IT,Male,58,Engineer,2019-09-30 08:03:05.556036,4,High School,1,6600.0,50,41,1,5,75,7,66,2,2.66,False
+17934,Operations,Male,32,Developer,2020-10-01 08:03:05.556036,3,Bachelor,1,5500.0,50,15,9,13,100,13,91,1,2.15,False
+33609,HR,Female,44,Consultant,2023-08-29 08:03:05.556036,1,Bachelor,4,7700.0,48,31,21,3,25,10,90,2,4.39,False
+49960,IT,Female,60,Specialist,2020-01-26 08:03:05.556036,4,Bachelor,4,6300.0,34,11,20,6,75,18,3,1,4.39,False
+66599,Engineering,Male,50,Consultant,2017-08-01 08:03:05.556036,7,High School,1,6050.0,33,43,19,4,0,2,86,0,4.73,False
+99090,Operations,Male,55,Technician,2015-10-26 08:03:05.556036,8,High School,3,4550.0,32,22,17,2,0,10,15,1,1.0,True
+34452,Marketing,Male,29,Consultant,2016-04-05 08:03:05.556036,8,Master,5,8250.0,31,5,10,14,50,1,66,2,4.11,False
+34081,Marketing,Female,56,Technician,2017-02-04 08:03:05.556036,7,Bachelor,4,4900.0,53,22,6,11,0,16,20,2,3.68,True
+63588,Finance,Female,47,Developer,2018-02-12 08:03:05.556036,6,Bachelor,2,6000.0,40,39,28,14,75,7,34,0,2.7,False
+4294,Customer Support,Female,43,Engineer,2020-10-07 08:03:05.556036,3,Master,3,7800.0,31,6,4,12,0,18,32,1,3.94,False
+69103,HR,Other,36,Manager,2023-08-14 08:03:05.556036,1,High School,5,9000.0,40,0,10,8,100,7,77,2,3.39,False
+86412,Legal,Female,23,Analyst,2015-02-01 08:03:05.556036,9,High School,1,4400.0,56,43,24,0,25,13,41,0,1.88,False
+99477,Operations,Male,56,Analyst,2019-12-15 08:03:05.556036,4,PhD,4,5600.0,50,40,20,6,0,14,60,1,2.92,True
+53930,Legal,Male,55,Analyst,2018-11-18 08:03:05.556036,5,Bachelor,1,4400.0,60,12,28,9,0,13,49,2,3.9,False
+87071,HR,Female,34,Developer,2021-03-10 08:03:05.556036,3,High School,3,6500.0,58,17,6,10,75,9,53,1,4.56,False
+65084,Engineering,Female,55,Manager,2017-11-05 08:03:05.556036,6,High School,5,9000.0,32,49,6,9,100,7,57,1,3.97,False
+30713,IT,Female,55,Developer,2014-12-19 08:03:05.556036,9,Bachelor,1,5500.0,31,43,27,13,25,11,80,0,4.64,False
+49183,Customer Support,Male,52,Technician,2021-08-06 08:03:05.556036,3,High School,1,3850.0,54,30,26,9,75,16,6,1,2.03,False
+57235,IT,Male,37,Developer,2016-10-30 08:03:05.556036,7,Master,2,6000.0,58,41,24,7,0,11,34,0,2.99,False
+15664,Engineering,Female,43,Manager,2020-10-24 08:03:05.556036,3,Bachelor,5,9000.0,42,14,21,8,100,8,88,1,2.91,False
+19967,Engineering,Male,47,Engineer,2024-08-18 08:03:05.556036,0,Bachelor,2,7200.0,31,43,11,4,50,11,91,2,3.17,False
+91913,Finance,Male,22,Specialist,2021-01-31 08:03:05.556036,3,High School,4,6300.0,55,25,4,5,50,17,23,2,1.03,False
+91958,Legal,Male,27,Specialist,2019-05-27 08:03:05.556036,5,Bachelor,5,6750.0,42,12,2,11,75,1,13,0,4.51,False
+81347,Sales,Female,39,Engineer,2023-05-11 08:03:05.556036,1,High School,5,9000.0,60,3,27,6,0,11,10,0,4.33,True
+55326,Legal,Male,47,Engineer,2016-12-24 08:03:05.556036,7,Bachelor,2,7200.0,42,37,1,14,0,11,26,2,4.83,False
+29858,Customer Support,Female,39,Specialist,2020-09-10 08:03:05.556036,3,Master,5,6750.0,49,47,8,2,50,9,30,1,4.8,True
+71223,IT,Male,53,Analyst,2018-05-08 08:03:05.556036,6,Bachelor,1,4400.0,55,19,29,14,0,7,71,2,4.01,False
+52459,Customer Support,Female,22,Consultant,2020-01-08 08:03:05.556036,4,Bachelor,3,7150.0,45,11,12,14,50,8,85,2,3.86,False
+88346,Engineering,Female,33,Engineer,2022-12-01 08:03:05.556036,1,High School,3,7800.0,31,5,22,10,0,9,47,0,1.93,True
+82364,Legal,Female,47,Analyst,2016-11-15 08:03:05.556036,7,Bachelor,2,4800.0,34,20,27,14,0,6,20,0,2.56,False
+65350,Sales,Male,38,Analyst,2018-05-15 08:03:05.556036,6,High School,3,5200.0,47,47,7,10,25,13,51,1,3.98,False
+59650,Marketing,Male,22,Analyst,2018-05-30 08:03:05.556036,6,Bachelor,4,5600.0,58,31,7,7,50,18,40,0,2.21,False
+44953,Legal,Female,42,Specialist,2018-12-20 08:03:05.556036,5,High School,3,5850.0,59,28,28,11,0,1,75,0,1.14,False
+39526,HR,Female,51,Manager,2018-11-20 08:03:05.556036,5,Bachelor,3,7800.0,49,38,28,11,0,16,97,2,4.41,False
+13936,Customer Support,Female,33,Developer,2020-06-25 08:03:05.556036,4,Master,1,5500.0,31,15,23,1,25,12,90,2,4.25,False
+93781,Finance,Female,52,Consultant,2016-04-07 08:03:05.556036,8,High School,4,7700.0,43,14,20,1,100,8,42,2,4.52,False
+89885,Finance,Female,35,Technician,2019-07-03 08:03:05.556036,5,High School,4,4900.0,44,38,7,13,75,4,33,2,4.6,False
+81144,Finance,Male,23,Manager,2016-05-18 08:03:05.556036,8,High School,2,7200.0,40,3,5,7,0,12,32,1,2.58,False
+95800,HR,Female,37,Technician,2018-10-15 08:03:05.556036,5,Bachelor,2,4200.0,30,12,18,3,100,14,41,0,1.16,False
+89405,HR,Other,42,Manager,2019-05-28 08:03:05.556036,5,Bachelor,4,8400.0,45,20,12,11,25,19,23,2,3.67,False
+55224,Operations,Female,40,Technician,2024-06-08 08:03:05.556036,0,High School,2,4200.0,30,22,12,0,0,19,14,1,2.47,False
+73646,Engineering,Other,22,Consultant,2015-08-17 08:03:05.556036,9,High School,3,7150.0,40,37,5,8,25,14,11,0,2.43,False
+66294,IT,Female,29,Consultant,2019-05-25 08:03:05.556036,5,Bachelor,5,8250.0,58,33,4,5,100,13,63,1,2.75,True
+65540,Sales,Male,60,Technician,2022-12-14 08:03:05.556036,1,Bachelor,3,4550.0,34,21,5,1,50,13,97,1,3.02,False
+28111,Operations,Female,36,Engineer,2021-04-25 08:03:05.556036,3,High School,3,7800.0,36,11,29,5,0,14,3,1,4.7,False
+41929,Customer Support,Female,49,Engineer,2018-05-11 08:03:05.556036,6,Bachelor,5,9000.0,36,15,18,13,0,11,48,1,1.26,False
+86547,Engineering,Female,57,Analyst,2017-11-10 08:03:05.556036,6,Bachelor,3,5200.0,38,10,29,9,25,18,55,2,1.69,False
+82586,IT,Male,35,Developer,2019-08-10 08:03:05.556036,5,Bachelor,3,6500.0,41,12,19,7,50,15,42,0,1.97,False
+38604,Operations,Male,46,Manager,2018-09-15 08:03:05.556036,5,Bachelor,2,7200.0,41,19,10,3,75,19,37,2,1.38,False
+91658,Sales,Female,60,Technician,2015-02-26 08:03:05.556036,9,Bachelor,1,3850.0,37,14,20,10,0,13,35,1,1.46,False
+62787,Engineering,Female,40,Manager,2015-01-20 08:03:05.556036,9,Bachelor,1,6600.0,30,15,17,12,0,12,20,1,1.29,False
+84341,Sales,Male,50,Technician,2021-10-04 08:03:05.556036,2,High School,2,4200.0,37,16,14,10,50,8,22,2,4.23,False
+39875,Customer Support,Female,25,Manager,2017-09-21 08:03:05.556036,6,High School,2,7200.0,59,45,28,12,0,2,43,2,1.35,False
+78469,Sales,Male,42,Analyst,2019-04-26 08:03:05.556036,5,Bachelor,5,6000.0,48,49,12,1,50,18,37,1,2.42,False
+31632,Operations,Male,50,Technician,2019-07-13 08:03:05.556036,5,PhD,5,5250.0,32,44,0,14,75,6,6,1,4.55,False
+14953,HR,Male,36,Specialist,2022-12-10 08:03:05.556036,1,Bachelor,3,5850.0,46,17,14,9,75,18,46,2,2.32,False
+39332,IT,Female,24,Developer,2018-05-11 08:03:05.556036,6,Bachelor,3,6500.0,46,30,29,9,75,5,69,0,4.51,False
+48588,Legal,Male,47,Analyst,2021-12-04 08:03:05.556036,2,PhD,5,6000.0,31,29,25,2,100,10,60,1,1.41,False
+83595,Sales,Female,52,Specialist,2016-10-08 08:03:05.556036,7,PhD,3,5850.0,50,22,6,2,50,6,66,1,2.25,False
+41488,Operations,Female,34,Specialist,2021-04-30 08:03:05.556036,3,High School,4,6300.0,60,18,3,0,0,7,25,2,1.94,False
+39628,Sales,Female,56,Consultant,2020-02-09 08:03:05.556036,4,Bachelor,2,6600.0,44,11,10,5,0,5,79,0,4.38,False
+87895,Customer Support,Female,28,Analyst,2016-03-08 08:03:05.556036,8,Bachelor,1,4400.0,45,10,28,1,25,9,44,2,3.34,False
+26304,Engineering,Female,39,Analyst,2016-12-24 08:03:05.556036,7,Bachelor,1,4400.0,38,1,11,10,0,10,98,1,4.28,False
+67404,Operations,Male,35,Technician,2021-11-05 08:03:05.556036,2,High School,4,4900.0,48,22,25,7,100,15,65,0,1.63,False
+98085,Finance,Female,43,Specialist,2017-04-08 08:03:05.556036,7,Master,1,4950.0,56,28,10,10,100,1,96,1,3.25,False
+95602,Sales,Male,56,Consultant,2015-10-22 08:03:05.556036,8,Bachelor,2,6600.0,36,49,14,6,0,7,84,1,1.27,False
+5020,HR,Female,32,Developer,2021-04-21 08:03:05.556036,3,Master,2,6000.0,41,4,28,10,100,12,26,1,4.74,False
+5224,IT,Female,41,Technician,2017-12-17 08:03:05.556036,6,Bachelor,2,4200.0,37,14,5,11,25,19,62,0,4.08,False
+15781,Legal,Male,49,Specialist,2015-11-03 08:03:05.556036,8,High School,5,6750.0,47,44,19,4,75,5,46,0,2.65,False
+45557,IT,Female,39,Consultant,2019-10-24 08:03:05.556036,4,Bachelor,4,7700.0,45,9,29,14,50,8,47,0,2.37,False
+12897,Finance,Male,27,Manager,2023-03-24 08:03:05.556036,1,Bachelor,1,6600.0,35,1,14,1,100,16,1,2,2.67,False
+34305,Operations,Male,57,Developer,2019-08-20 08:03:05.556036,5,High School,5,7500.0,37,18,2,12,75,13,68,2,4.36,False
+93323,Customer Support,Male,34,Analyst,2020-09-22 08:03:05.556036,3,Bachelor,2,4800.0,31,35,19,14,100,11,77,1,4.22,True
+5325,IT,Male,31,Manager,2022-03-16 08:03:05.556036,2,Bachelor,3,7800.0,53,16,11,6,0,16,38,1,3.01,False
+52926,HR,Male,48,Technician,2022-04-14 08:03:05.556036,2,Bachelor,3,4550.0,48,23,6,13,50,11,86,2,3.04,False
+62865,Legal,Male,50,Engineer,2017-09-09 08:03:05.556036,6,High School,4,8400.0,44,12,27,9,100,19,51,2,2.35,False
+8019,IT,Male,36,Analyst,2014-10-03 08:03:05.556036,9,Master,5,6000.0,52,39,9,5,0,2,74,0,4.08,False
+82945,Engineering,Female,27,Analyst,2017-02-09 08:03:05.556036,7,Bachelor,2,4800.0,58,14,22,11,25,2,81,1,1.15,False
+90377,Marketing,Male,32,Analyst,2017-05-28 08:03:05.556036,7,High School,3,5200.0,53,5,23,3,75,18,21,0,4.37,False
+41721,Sales,Male,44,Analyst,2024-04-27 08:03:05.556036,0,Bachelor,3,5200.0,52,8,4,10,100,6,64,0,1.94,False
+867,Engineering,Male,32,Specialist,2023-09-04 08:03:05.556036,1,High School,3,5850.0,52,1,4,8,25,15,52,2,1.01,False
+98444,HR,Female,37,Consultant,2018-04-13 08:03:05.556036,6,Bachelor,2,6600.0,45,3,18,7,75,5,0,1,3.28,False
+83040,IT,Male,53,Specialist,2023-04-14 08:03:05.556036,1,Bachelor,4,6300.0,36,43,3,14,75,1,93,2,2.07,False
+13925,Operations,Female,58,Manager,2017-02-11 08:03:05.556036,7,High School,1,6600.0,38,47,3,6,75,3,19,1,5.0,False
+79893,Operations,Female,47,Analyst,2018-05-26 08:03:05.556036,6,Bachelor,1,4400.0,43,2,1,10,0,3,41,2,1.62,True
+31184,Finance,Female,56,Analyst,2016-06-08 08:03:05.556036,8,High School,4,5600.0,49,3,17,12,50,19,97,2,4.65,False
+13800,IT,Female,26,Engineer,2021-09-18 08:03:05.556036,2,PhD,2,7200.0,53,6,13,4,0,18,81,2,2.4,False
+40989,Legal,Female,38,Consultant,2018-04-09 08:03:05.556036,6,High School,4,7700.0,53,1,8,4,50,19,1,0,4.16,False
+66734,Engineering,Male,31,Manager,2024-05-01 08:03:05.556036,0,Bachelor,2,7200.0,57,11,5,8,75,15,74,2,2.77,False
+78331,Engineering,Female,50,Technician,2016-03-16 08:03:05.556036,8,Bachelor,3,4550.0,55,47,27,12,0,16,56,2,2.94,False
+24379,Engineering,Female,52,Developer,2018-05-13 08:03:05.556036,6,Bachelor,2,6000.0,40,27,5,9,75,12,11,0,2.64,False
+23415,Operations,Male,37,Consultant,2024-08-31 08:03:05.556036,0,Master,2,6600.0,39,13,10,10,50,9,54,2,2.6,False
+97560,Engineering,Female,50,Specialist,2018-09-04 08:03:05.556036,6,Master,2,5400.0,52,0,6,0,50,7,7,1,4.52,False
+22993,Finance,Male,49,Consultant,2020-11-14 08:03:05.556036,3,High School,1,6050.0,33,6,12,9,100,2,27,1,1.17,True
+3232,Finance,Female,39,Analyst,2021-06-25 08:03:05.556036,3,High School,2,4800.0,60,40,19,1,25,16,65,1,4.2,False
+41996,Operations,Male,40,Consultant,2023-01-23 08:03:05.556036,1,High School,2,6600.0,58,29,24,3,75,8,32,1,3.1,False
+49188,HR,Female,53,Engineer,2016-01-10 08:03:05.556036,8,Master,5,9000.0,33,25,8,12,50,8,46,0,2.25,False
+22515,Legal,Female,36,Analyst,2015-10-02 08:03:05.556036,8,High School,1,4400.0,55,15,29,1,25,10,41,2,3.47,False
+21326,Engineering,Female,47,Consultant,2022-09-20 08:03:05.556036,1,PhD,4,7700.0,59,36,10,5,0,11,60,1,4.94,False
+86234,Customer Support,Female,55,Specialist,2017-08-18 08:03:05.556036,7,Bachelor,5,6750.0,33,34,0,12,100,10,11,2,3.71,False
+88127,Customer Support,Female,45,Consultant,2023-06-09 08:03:05.556036,1,High School,5,8250.0,33,42,21,5,100,9,6,0,1.83,False
+29824,Engineering,Male,25,Technician,2022-03-24 08:03:05.556036,2,Bachelor,2,4200.0,53,32,22,11,100,12,63,2,4.67,False
+92485,Sales,Female,57,Developer,2015-03-01 08:03:05.556036,9,High School,2,6000.0,31,13,10,6,0,16,97,2,1.32,False
+68425,Sales,Female,49,Developer,2017-04-25 08:03:05.556036,7,Bachelor,4,7000.0,51,7,22,2,50,12,7,1,1.59,False
+64484,IT,Female,22,Manager,2015-07-08 08:03:05.556036,9,Bachelor,5,9000.0,30,6,16,3,100,3,40,1,2.84,False
+51020,Customer Support,Female,23,Manager,2017-04-25 08:03:05.556036,7,Master,3,7800.0,43,41,16,9,25,4,27,2,1.94,True
+26754,Finance,Male,24,Analyst,2020-05-06 08:03:05.556036,4,High School,5,6000.0,55,29,7,12,75,1,68,1,3.03,False
+49964,Finance,Female,54,Developer,2021-12-14 08:03:05.556036,2,High School,5,7500.0,49,8,12,10,100,11,82,2,2.45,False
+42732,IT,Female,27,Developer,2022-03-29 08:03:05.556036,2,Bachelor,5,7500.0,40,43,22,9,75,12,51,1,3.74,False
+29057,IT,Male,57,Consultant,2020-06-25 08:03:05.556036,4,Master,2,6600.0,33,9,15,12,75,16,50,0,4.96,False
+55318,IT,Male,22,Consultant,2017-09-07 08:03:05.556036,6,Bachelor,3,7150.0,60,34,6,8,0,11,90,2,3.1,False
+35497,IT,Female,23,Specialist,2015-08-12 08:03:05.556036,9,High School,1,4950.0,41,32,26,4,25,14,13,2,1.36,False
+56338,Engineering,Other,40,Specialist,2018-05-24 08:03:05.556036,6,Bachelor,4,6300.0,30,48,4,3,25,9,22,0,1.61,False
+79278,Legal,Female,38,Developer,2019-03-27 08:03:05.556036,5,Bachelor,1,5500.0,37,23,1,13,0,7,39,0,2.4,True
+5465,Marketing,Male,33,Specialist,2024-07-05 08:03:05.556036,0,Master,4,6300.0,48,3,19,10,100,5,43,0,3.03,False
+70156,Marketing,Male,29,Analyst,2015-07-10 08:03:05.556036,9,Bachelor,2,4800.0,32,7,24,2,100,15,40,2,1.52,False
+70670,HR,Male,41,Specialist,2014-10-13 08:03:05.556036,9,Master,1,4950.0,40,11,17,10,100,6,19,1,1.58,False
+56014,Finance,Male,28,Developer,2015-09-21 08:03:05.556036,8,Master,1,5500.0,45,33,20,4,0,8,23,2,3.87,False
+12086,Operations,Male,41,Technician,2023-10-29 08:03:05.556036,0,PhD,3,4550.0,34,4,2,9,25,4,75,2,4.14,False
+56819,Customer Support,Male,28,Engineer,2016-09-22 08:03:05.556036,7,Bachelor,3,7800.0,43,3,25,5,75,1,36,1,4.66,False
+20001,Marketing,Male,24,Developer,2020-01-12 08:03:05.556036,4,Bachelor,5,7500.0,44,37,0,4,75,18,92,0,1.54,False
+69067,Operations,Male,51,Technician,2017-09-21 08:03:05.556036,6,Bachelor,2,4200.0,56,17,22,14,100,12,39,1,2.84,True
+50453,Finance,Male,42,Consultant,2017-04-27 08:03:05.556036,7,High School,3,7150.0,56,9,15,3,0,19,92,0,3.86,False
+90710,Finance,Male,26,Technician,2018-01-20 08:03:05.556036,6,Bachelor,5,5250.0,36,7,29,8,100,11,71,1,1.99,False
+52885,Sales,Male,23,Developer,2022-11-25 08:03:05.556036,1,Bachelor,4,7000.0,39,35,11,13,25,8,32,1,4.0,False
+30964,Operations,Male,37,Engineer,2019-02-11 08:03:05.556036,5,Bachelor,1,6600.0,31,2,11,14,25,16,12,2,4.57,False
+34574,Marketing,Female,29,Engineer,2018-07-31 08:03:05.556036,6,Master,4,8400.0,36,32,14,4,25,15,39,2,3.25,False
